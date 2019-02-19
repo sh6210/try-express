@@ -1,0 +1,26 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh6210/try-express.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "sh6210",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh6210/try-express/issues"
+  },
+  "homepage": "https://github.com/sh6210/try-express#readme",
+  "dependencies": {
+    "mongodb": "^3.1.13"
+  }
+}
